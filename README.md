@@ -1177,32 +1177,28 @@ There are 463 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : lat (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|6||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : lat (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -1211,21 +1207,18 @@ There are 463 **ommitted** fragments!
 |---|---|---|---|
 |1.|__abbr__|1254||
 |2.|__am__|1154||
-|3.|__back__|1||
-|4.|__body__|1||
-|5.|__choice__|227||
-|6.|__desc__|463||
-|7.|__div__|439| @__type__ (439) : illustration (2), incipit (1), text (1), part (434), colophon (1)|
-|8.|__ex__|1154||
-|9.|__expan__|1381||
-|10.|__figDesc__|2||
-|11.|__figure__|2||
-|12.|__front__|1||
-|13.|__g__|9872| @__ref__ (9872) : char:abrum (251), char:cmbAbbrStroke (7939), char:abque (493), char:EOLunhyphen (509), char:EOLhyphen (228), char:abquam (86), char:punc (42), char:abur (159), char:absed (6), char:aber (159)|
-|14.|__gap__|463| @__reason__ (463) : illegible (461), duplicate (2)  •  @__resp__ (448) : #PDCC (448)  •  @__extent__ (463) : 1 letter (382), 2 letters (33), 1 word (35), 1 span (6), 3 letters (5), 1 page (2)|
-|15.|__head__|436||
-|16.|__hi__|317| @__rend__ (317) : sup (317)|
-|17.|__lb__|262||
-|18.|__note__|432| @__place__ (432) : margin (432)|
-|19.|__p__|442||
-|20.|__pb__|152| @__facs__ (152) : tcp:10385:1 (2), tcp:10385:2 (2), tcp:10385:3 (2), tcp:10385:4 (2), tcp:10385:5 (2), tcp:10385:6 (2), tcp:10385:7 (2), tcp:10385:8 (2), tcp:10385:9 (2), tcp:10385:10 (2), tcp:10385:11 (2), tcp:10385:12 (2), tcp:10385:13 (2), tcp:10385:14 (2), tcp:10385:15 (2), tcp:10385:16 (2), tcp:10385:17 (2), tcp:10385:18 (2), tcp:10385:19 (2), tcp:10385:20 (2), tcp:10385:21 (2), tcp:10385:22 (2), tcp:10385:23 (2), tcp:10385:24 (2), tcp:10385:25 (2), tcp:10385:26 (2), tcp:10385:27 (2), tcp:10385:28 (2), tcp:10385:29 (2), tcp:10385:30 (2), tcp:10385:31 (2), tcp:10385:32 (2), tcp:10385:33 (2), tcp:10385:34 (2), tcp:10385:35 (2), tcp:10385:36 (2), tcp:10385:37 (2), tcp:10385:38 (2), tcp:10385:39 (2), tcp:10385:40 (2), tcp:10385:41 (2), tcp:10385:42 (2), tcp:10385:43 (2), tcp:10385:44 (2), tcp:10385:45 (2), tcp:10385:46 (2), tcp:10385:47 (2), tcp:10385:48 (2), tcp:10385:49 (2), tcp:10385:50 (2), tcp:10385:51 (2), tcp:10385:52 (2), tcp:10385:53 (2), tcp:10385:54 (2), tcp:10385:55 (2), tcp:10385:56 (2), tcp:10385:57 (2), tcp:10385:58 (2), tcp:10385:59 (2), tcp:10385:60 (2), tcp:10385:61 (2), tcp:10385:62 (2), tcp:10385:63 (2), tcp:10385:64 (2), tcp:10385:65 (2), tcp:10385:66 (2), tcp:10385:67 (2), tcp:10385:68 (2), tcp:10385:69 (2), tcp:10385:70 (2), tcp:10385:71 (2), tcp:10385:72 (2), tcp:10385:73 (2), tcp:10385:74 (2), tcp:10385:75 (2), tcp:10385:76 (2)  •  @__rendition__ (2) : simple:additions (2)|
+|3.|__choice__|227||
+|4.|__desc__|463||
+|5.|__div__|439| @__type__ (439) : illustration (2), incipit (1), text (1), part (434), colophon (1)|
+|6.|__ex__|1154||
+|7.|__expan__|1381||
+|8.|__figDesc__|2||
+|9.|__figure__|2||
+|10.|__g__|9872| @__ref__ (9872) : char:abrum (251), char:cmbAbbrStroke (7939), char:abque (493), char:EOLunhyphen (509), char:EOLhyphen (228), char:abquam (86), char:punc (42), char:abur (159), char:absed (6), char:aber (159)|
+|11.|__gap__|463| @__reason__ (463) : illegible (461), duplicate (2)  •  @__resp__ (448) : #PDCC (448)  •  @__extent__ (463) : 1 letter (382), 2 letters (33), 1 word (35), 1 span (6), 3 letters (5), 1 page (2)|
+|12.|__head__|436||
+|13.|__hi__|317| @__rend__ (317) : sup (317)|
+|14.|__lb__|262||
+|15.|__note__|432| @__place__ (432) : margin (432)|
+|16.|__p__|442||
+|17.|__pb__|152| @__facs__ (152) : tcp:10385:1 (2), tcp:10385:2 (2), tcp:10385:3 (2), tcp:10385:4 (2), tcp:10385:5 (2), tcp:10385:6 (2), tcp:10385:7 (2), tcp:10385:8 (2), tcp:10385:9 (2), tcp:10385:10 (2), tcp:10385:11 (2), tcp:10385:12 (2), tcp:10385:13 (2), tcp:10385:14 (2), tcp:10385:15 (2), tcp:10385:16 (2), tcp:10385:17 (2), tcp:10385:18 (2), tcp:10385:19 (2), tcp:10385:20 (2), tcp:10385:21 (2), tcp:10385:22 (2), tcp:10385:23 (2), tcp:10385:24 (2), tcp:10385:25 (2), tcp:10385:26 (2), tcp:10385:27 (2), tcp:10385:28 (2), tcp:10385:29 (2), tcp:10385:30 (2), tcp:10385:31 (2), tcp:10385:32 (2), tcp:10385:33 (2), tcp:10385:34 (2), tcp:10385:35 (2), tcp:10385:36 (2), tcp:10385:37 (2), tcp:10385:38 (2), tcp:10385:39 (2), tcp:10385:40 (2), tcp:10385:41 (2), tcp:10385:42 (2), tcp:10385:43 (2), tcp:10385:44 (2), tcp:10385:45 (2), tcp:10385:46 (2), tcp:10385:47 (2), tcp:10385:48 (2), tcp:10385:49 (2), tcp:10385:50 (2), tcp:10385:51 (2), tcp:10385:52 (2), tcp:10385:53 (2), tcp:10385:54 (2), tcp:10385:55 (2), tcp:10385:56 (2), tcp:10385:57 (2), tcp:10385:58 (2), tcp:10385:59 (2), tcp:10385:60 (2), tcp:10385:61 (2), tcp:10385:62 (2), tcp:10385:63 (2), tcp:10385:64 (2), tcp:10385:65 (2), tcp:10385:66 (2), tcp:10385:67 (2), tcp:10385:68 (2), tcp:10385:69 (2), tcp:10385:70 (2), tcp:10385:71 (2), tcp:10385:72 (2), tcp:10385:73 (2), tcp:10385:74 (2), tcp:10385:75 (2), tcp:10385:76 (2)  •  @__rendition__ (2) : simple:additions (2)|
